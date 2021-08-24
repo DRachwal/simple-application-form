@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    background: #e6e6e6;
+    padding: 8px 16px;
+}
+
+.header nav {
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+}
+
+.header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+}
