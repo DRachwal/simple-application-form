@@ -6,6 +6,7 @@ import ChooseCompany from './Views/ChooseCompany';
 import ApplicationForm from './Views/ApplicationForm';
 import Summary from './Views/Summary'
 import PrivacyPolicy from './Views/PrivacyPolicy';
+import Footer from './Components/Footer/Footer';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -32,6 +33,7 @@ const App = () => {
                 </Switch>
             </div>
         </main>
+        <Footer />
     </Fragment>
   );
 }

@@ -28,8 +28,8 @@ const Navbar = () => {
                                 <Link to='/privacy-policy' className='nav-link'>Polityka prywatności</Link>
                             </li>
                         </ul>
-                        <Clock />
                     </div>
+                    {!showMobileNav && <Clock />}
                 </div>
             </nav>
         </Fragment>
