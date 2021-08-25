@@ -1,0 +1,21 @@
+const PrivacyPolicy = () => {
+    return (
+        <section>
+            <div className='row'>
+                <div className='col'>
+                    <h2 className='text-center'>Polityka prywatności</h2>
+                    <p className='mt-3' style={{ textAlign: 'justify' }}>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rutrum pharetra ipsum, eu scelerisque justo pulvinar quis. Maecenas lacinia, leo ut ultricies tempor, est mauris tempus quam, ut varius odio lorem eget sem. Quisque et efficitur ipsum. Aliquam porttitor laoreet velit, ultricies finibus nunc scelerisque ac. Sed ultrices dictum ullamcorper. Fusce bibendum pulvinar quam, id finibus dolor tempus id. Ut pretium enim rhoncus mattis placerat. Aenean at hendrerit nisl. Proin in felis et est lobortis maximus nec et tellus.<br />
+                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur efficitur malesuada ligula a semper. Quisque sit amet ligula dignissim purus sodales pretium. Donec eu turpis lacus. Nunc ut metus sed nibh dignissim elementum sit amet sit amet velit. Maecenas sit amet velit mattis, gravida nisl sit amet, venenatis mi. Proin sed tellus ac odio ultricies blandit ultrices sit amet ligula. Sed ultrices consectetur augue, posuere accumsan libero hendrerit et. Donec tellus eros, sagittis non neque nec, eleifend facilisis augue. Aenean sollicitudin fringilla tincidunt. Vestibulum quis nunc ullamcorper, congue lorem non, vulputate lectus.<br />
+                        Pellentesque consectetur neque vitae lectus tempus sollicitudin. Suspendisse laoreet mauris at ullamcorper volutpat. Quisque pharetra ornare condimentum. Quisque sit amet dui lorem. Suspendisse eget ultrices tellus. Vivamus mauris neque, tempor et risus at, semper faucibus sapien. Integer id aliquam dolor.<br />
+                        Maecenas vehicula maximus euismod. Morbi pharetra ut orci at dignissim. Donec ut tincidunt felis, vitae lobortis risus. Maecenas facilisis metus a tortor tincidunt, laoreet consequat purus porta. Nullam consequat dictum leo. Cras nunc risus, faucibus id tortor id, sodales porttitor ex. Duis id nunc purus. Donec ac auctor orci. Pellentesque eu est ornare, auctor nulla sit amet, ultricies metus. In laoreet dui urna, ut laoreet ipsum dictum sit amet. Aliquam pulvinar vehicula turpis, eget iaculis eros facilisis ut. Fusce dignissim, sem sollicitudin congue ultricies, erat turpis luctus dolor, in interdum sem odio ac lorem. Integer faucibus, lectus at congue pellentesque, massa sem laoreet enim, et ornare libero mi nec nunc. Vestibulum placerat felis eget tellus elementum, sed hendrerit mi venenatis. Pellentesque et risus rhoncus, pellentesque sapien a, porta libero. Sed rutrum ipsum vitae sapien vulputate euismod.<br />
+                        Aliquam malesuada nisi id lorem ullamcorper aliquet. Curabitur ornare malesuada lectus, luctus sagittis metus. Aliquam ut dolor vitae justo bibendum aliquam at vel mi. Etiam vel condimentum elit, et malesuada lorem. Vivamus scelerisque orci sed ex tempor, sed iaculis purus interdum. Cras vitae tortor cursus, tristique lorem vitae, placerat neque. Sed tempus sagittis mauris, vel aliquet tellus vestibulum non. Integer vel purus enim. Nam laoreet erat vel purus convallis iaculis. Duis molestie cursus cursus. Donec non quam bibendum, tristique ante sed, bibendum nisl.<br />
+                        Vestibulum ullamcorper placerat tortor ac malesuada. Fusce et feugiat magna, sit amet laoreet ex. Mauris finibus diam eget metus maximus pellentesque. Vivamus elementum faucibus turpis, sed mollis magna vehicula vel. Nam nisl enim, blandit ut risus eu, viverra sagittis tellus. Nunc consectetur ante id tortor gravida, eu tincidunt lorem feugiat. Quisque porta facilisis erat, nec vehicula diam dapibus eget. Donec eleifend massa ut nibh commodo mollis.
+                    </p>
+                </div>
+            </div>
+        </section>
+    )
+};
+
+export default PrivacyPolicy;
